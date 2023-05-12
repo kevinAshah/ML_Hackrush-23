@@ -34,6 +34,6 @@ In the future, we aim to explore advanced techniques such as Transformers for im
 
 #### That's it!!
 
-ML Challenge Winner: Team Name - predict.me() | Leaderboard Position: 1 | 36 hours of relentless teamwork, fueled by pizza and caffeine, resulted in securing the top position.
+ML Challenge Winner: Team Name - predict.me() | Leaderboard Position: 1 | 36 hours of relentless teamwork, fueled by subways and caffeine, resulted in securing the top position.
 
 Please find the Kaggle Competition here:-  [here](https://www.kaggle.com/competitions/forecasting-stocks-using-aiml/overview)
